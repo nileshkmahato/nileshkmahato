@@ -29,3 +29,6 @@ If an idea pops into my head, chances are I’ll build it and ship it 🚀
 --
 
 ⭐️ Thanks for visiting my profile!
+
+🔥 No one creates logic from zero every time,
+Everyone reuses known patterns
